@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../css/main.css">  
     <link rel="stylesheet" href="../css/admin.css">
         
-    <title>Dashboard</title>
+    <title>Admin Dashboard</title>
     <style>
         .dashbord-tables{
             animation: transitionIn-Y-over 0.5s;
